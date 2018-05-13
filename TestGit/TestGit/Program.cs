@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             string str = "developer";
+            string soso = "Developer";
         }
     }
 }
