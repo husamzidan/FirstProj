@@ -12,6 +12,8 @@ namespace TestGit
         {
             string str1 = "first";
             string str2 = "Developer";
+            string str = "developer";
+            string soso = "Developer";
         }
     }
 }
