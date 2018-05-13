@@ -10,8 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            string str1 = "first";
-            string str2 = "Developer";
+            string str = "developer";
         }
     }
 }
